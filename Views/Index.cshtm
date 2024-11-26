@@ -1,0 +1,4 @@
+@foreach (var comicBook in Model)
+{
+    <p>@comicBook.Title - @comicBook.Author - @comicBook.Price</p>
+}

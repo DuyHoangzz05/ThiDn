@@ -1,0 +1,6 @@
+@ThiDNCore_HostAddress = http://localhost:5017
+
+GET {{ThiDNCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
